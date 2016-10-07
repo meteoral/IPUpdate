@@ -22,5 +22,6 @@
 	{
 		fwrite($fp, $qqwry);
 		fclose($fp);
+		echo "Finish!";
 	}
 ?>
